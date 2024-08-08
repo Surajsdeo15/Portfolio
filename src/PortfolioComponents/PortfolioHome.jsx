@@ -31,8 +31,6 @@ function Portfolio() {
     setRenderData(array[index]);
   }, [index, array]);
 
-
-
   return (
     <div className='w-full h-auto bg-gradient-to-tl from-slate-200 via-gray-300 to-slate-200 pt-4 pr-4 pb-16'>
       <div className='w-1/2 h-8 rounded-xl shadow-xl shadow-cyan-700 transform translate-x-full font-mono text-xl font-bold flex justify-between p-1 '>
