@@ -1,0 +1,23 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+@keyframes growShrink {
+    0%, 100% {
+      transform: scale(1);
+    }
+   
+    50% {
+      transform: scale(0.7);
+    }
+  }
+  
+  .grow-shrink {
+    animation: growShrink 7s ease-in-out infinite;
+  }
+
+
+  
+  
