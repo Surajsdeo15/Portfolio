@@ -47,6 +47,7 @@ function Portfolio() {
           <h2 className=' font-semibold font-mono text-2xl text-gray-700'>I'm a <span className='text-3xl font-extrabold font-serif text-orange-600'>{renderData}</span></h2>
 
 
+
           <p className='pt-10 text-sm text-gray-800'>I'm a passionate software developer, showcasing my journey through diverse projects, innovative solutions, and a commitment to crafting high-quality applications. Explore my work and experiences here <span className='text-lg font-bold font-mono text-orange-600'>.</span>
           </p>
 
