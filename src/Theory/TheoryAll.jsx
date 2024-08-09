@@ -43,7 +43,7 @@ function TheoryAll() {
                 </ul>
               </div>
             ) : (
-              <p>No data available for this theory okay bhai.</p>
+              <p>No data available for this theory .</p>
             )}
           </div>
 
