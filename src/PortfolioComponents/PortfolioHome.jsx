@@ -66,7 +66,7 @@ function Portfolio() {
               <span> <a href="#contact">Hire Me</a></span>
 
             </div>
-            <a href="/Resume/resume.pdf" download="resume.pdf" target="_blank" rel="noopener noreferrer" > <div className='w-28 h-8   rounded shadow-xl transform duration-1000 hover:bg-white hover:text-green-600 shadow-cyan-700 bg-green-600 text-white pl-7 p-1 cursor-pointer font-medium '>
+            <a href="/Resume/finalr.pdf" download="finalr.pdf" target="_blank" rel="noopener noreferrer" > <div className='w-28 h-8   rounded shadow-xl transform duration-1000 hover:bg-white hover:text-green-600 shadow-cyan-700 bg-green-600 text-white pl-7 p-1 cursor-pointer font-medium '>
                 <span>Resume</span>
 
               </div>
