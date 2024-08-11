@@ -152,7 +152,7 @@ function Portfolio() {
       </div>
 
       <div className='contact-section w-full h-auto pt-28 mt-12 ml-2 pb-16 bg-gradient-to-tl from-gray-200 via-slate-600 to-gray-200  md:space-y-20 text-center' id='contact'>
-        <h1 className='font-extrabold text-xl md:text-6xl text-orange-600 relative -top-12'>CONTACT WITH ME</h1>
+        <h1 className='font-extrabold text-xl md:text-6xl text-orange-600 relative -top-12'>CONTACT ME</h1>
 
 
 
