@@ -48,7 +48,7 @@ function Portfolio() {
         <h2 className='text-red-600 md:ml-8 hover:underline'> <a href="#Projects">Projects<span className='text-green-500'>(4)</span></a></h2>
         <h2 className='text-yellow-800 hover:underline'><a href="#Skills">Skills</a></h2>
         <h2 className='text-orange-800 md:mr-8 hover:underline'> <a href="#contact">Contact Me</a></h2>
-        <h2 className='text-green-800 md:mr-8 hover:underline cursor-pointer' onClick={handleTheorySection} > Theory</h2>
+        {/* <h2 className='text-green-800 md:mr-8 hover:underline cursor-pointer' onClick={handleTheorySection} > Theory</h2> */}
       </div>
 
       <div className='w-full h-auto md:mt-12    md:flex md:justify-center gap-2 md:gap-4   md:space-x-44'>
